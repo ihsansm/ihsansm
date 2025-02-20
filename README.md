@@ -5,23 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihsansm" alt="ihsansm" /></a> </p>
 
-- 🔭 I’m currently working on [-](-)
-
 - 🌱 I’m currently learning **vue-js, nuxt-js, node-js, svelte**
 
-- 👯 I’m looking to collaborate on [-](-)
-
-- 🤝 I’m looking for help with [-](-)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ihsansm](https://github.com/ihsansm)
 
-- 📝 I regularly write articles on [-](-)
-
-- 💬 Ask me about **vue, vanilla js, css**
+- 💬 Ask me about ** Carburetor **
 
 - 📫 How to reach me **sukiiiiiii@proton.me**
 
-- 📄 Know about my experiences [-](-)
+- 📄 Know about my experiences : 0 degrees years old experience 
 
 - ⚡ Fun fact **Ora Fu Ora Lofyuuu**
 
