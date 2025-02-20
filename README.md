@@ -12,7 +12,7 @@
 
 - 💬 Ask me about ** Carburetor **
 
-- 📫 How to reach me **sukiiiiiii@proton.me**
+- 📫 How to reach me **📩sukiiiiiii@proton.me**
 
 - 📄 Know about my experiences : 0 degrees years old experience 
 
