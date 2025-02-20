@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **📩sukiiiiiii@proton.me**
 
-- 📄 Know about my experiences : 0 degrees years old experience 
+- 📄 Know about my experiences: **0 degrees years old experience**
 
 - ⚡ Fun fact **Ora Fu Ora Lofyuuu**
 
