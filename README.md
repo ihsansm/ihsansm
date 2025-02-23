@@ -7,9 +7,6 @@
 
 - 🌱 I’m currently learning **vue-js, nuxt-js, node-js, svelte**
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/ihsansm](https://github.com/ihsansm)
-
 - 💬 Ask me about **Carburetor**
 
 - 📫 How to reach me **📩sukiiiiiii@proton.me**
