@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihsansm&label=Profile%20views&color=0e75b6&style=flat" alt="ihsansm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihsansm" alt="ihsansm" /></a> </p>
-
-- 🌱 I’m currently learning **vue-js, nuxt-js, node-js, svelte**
-
 - 💬 Ask me about **Carburetor**
 
-- 📫 How to reach me **📩sukiiiiiii@proton.me**
+- 📫 **📩sukiiiiiii@proton.me**
 
 - 📄 Know about my experiences: **0 degrees years old experience**
 
