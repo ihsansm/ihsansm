@@ -1,4 +1,4 @@
-<h1 align="center">🚀Marhaban Ya Ramadhan🚀</h1>
+<h1 align="center">🚀Study Day🚀</h1>
 <h3 align="center">Mekanik Roda Kehidupan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihsansm&label=Profile%20views&color=0e75b6&style=flat" alt="ihsansm" /> </p>
